@@ -1,7 +1,9 @@
 # Who Am I?
-> Global Nomad. Mumbai - Dubai - Indianapolis - London - New York City.
+> 🌎 Global Nomad. Mumbai - Dubai - Indianapolis - London - New York City.
 
-> Present: Graduate Business Analytics student at the Fuqua School of Business, Duke University in Durham, NC.
+> 📚 Present: Graduate Business Analytics student at the Fuqua School of Business, Duke University in Durham, NC.
+
+> 🎨 New York City: FinOps team at Masterworks, a fintech platform offering fractional ownership in multimillion-dollar paintings. `Programming` X `Finance` X `Accounting` X `Art`. Fell in love with analytics and prg
 
 I am a Senior student majoring in Finance and Quantitative Economics (Honors) at the Kelley School of Business IUPUI with an undergraduate certificate in Fundamentals of Data Analytics. I am currently seeking an entry-level role in the field of Finance, Economics, or Data Analytics as these will enable me to invest my skills, experiences, and knowledge in a reputed company, and passionately build a long-term career. 
 
