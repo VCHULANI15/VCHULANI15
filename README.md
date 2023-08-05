@@ -17,6 +17,6 @@
 * Watch The Making Of Any Performance
 + Read Up Anything On Virgil Abloh, Daniel Arsham, Van Gogh, Kanye West
 
-# Skills
+# Skill
 
 
